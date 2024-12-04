@@ -1,0 +1,16 @@
+CoinJarKey=j
+CometKey=c
+GiantJarKey=g
+ItemJarKey=i
+LuckyBlockKey=l
+MagnetFlagKey=m
+PartyBoxKey=b
+PinataKey=p
+UseCoinJar=0
+UseComet=1
+UseGiantJar=1
+UseItemJar=0
+UseLuckyBlock=0
+UseMagnetFlag=1
+UsePartyBox=1
+UsePinata=0
